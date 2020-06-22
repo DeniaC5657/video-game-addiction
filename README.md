@@ -16,4 +16,4 @@ This project is to make gamers feel more knowledgeable about their gaming time, 
 
 ____________________________________________________________________
 
-# @ Denia Casimiro GITHUB(https://github.com/DeniaC5657)
+ @ Denia Casimiro GITHUB (https://github.com/DeniaC5657)
