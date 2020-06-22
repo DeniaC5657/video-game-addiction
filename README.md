@@ -8,3 +8,12 @@ Addiction could affect a person's mental and physical health but most important 
 
 This view of addiction in the technology world could be as strong than any other drug, as we know, technology is everywhere. Literally. But we need to have control, we can’t let technology fully take over us, we need our time to breath peacefully without worrying about our smartphones. These graphics of the newest technology could make us the most easily addicted to these devices. It is small, compact, good graphic, and easy to search the web. 
 
+____________________________________________________________________
+
+# Knowledge of the Video Game Addiction 
+
+This project is to make gamers feel more knowledgeable about their gaming time, making sure they have control over the controller. I’m pleased with my progress so far, as my code can automatically create a “simulating” based on common video game addicted gamers effects. Using code in A-Frame and learning the sizes and positions of the 3D shapes, base on this learning, I was able to create my best starter model, using basic 3D shapes to form a full model picture of ‘Video Game Addictions’
+
+____________________________________________________________________
+
+# @ Denia Casimiro GITHUB(https://github.com/DeniaC5657)
