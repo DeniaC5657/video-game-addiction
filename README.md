@@ -12,8 +12,13 @@ ____________________________________________________________________
 
 # Knowledge of the Video Game Addiction 
 
-This project is to make gamers feel more knowledgeable about their gaming time, making sure they have control over the controller. I’m pleased with my progress so far, as my code can automatically create a “simulating” based on common video game addicted gamers effects. Using code in A-Frame and learning the sizes and positions of the 3D shapes, base on this learning, I was able to create my best starter model, using basic 3D shapes to form a full model picture of ‘Video Game Addictions’
+Video game addiction is compulsive or uncontrolled use of video games, in a way that causes problems in other areas of the person's life. Video game addiction has also been deemed a type of digital addiction or internet addiction, which has become an increasing problem for parents as video games have become more popular which frequently attract children. Video games include computer games, console games, arcade machine games, and even mobile phone games, and advanced games with calculators. Games may be incorporated into social networking platforms, including Facebook , as an example.
 
+____________________________________________________________________
+
+# Technology VS Addiction
+
+As for other addictions, it is crucial not only to recognize the amount of time spent on gaming but also the role it serves the user while contemplating the likelihood of a video game addiction. Video game play can not be dangerous or imply an addiction, as one in a number in leisure behaviors. On the other side, because playing game becomes addictive, it takes over as the key way the individual copes with life, as a consequence of which certain essential aspects of existence are ignored or disturbed.
 ____________________________________________________________________
 
  @ Denia Casimiro GITHUB (https://github.com/DeniaC5657)
